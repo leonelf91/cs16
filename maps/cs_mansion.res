@@ -1,0 +1,10 @@
+sound/misc/tupulcu.wav
+sound/misc/woohoo2.wav
+sound/misc/minute1.wav
+sound/misc/minutes5.wav
+sound/misc/headshot.wav
+sound/misc/multikill.wav
+sound/misc/goal_1.wav
+sound/misc/dead_police.wav
+maps/cs_mansion.txt
+maps/cs_mansion.res
