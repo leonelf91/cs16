@@ -18,3 +18,8 @@ services:
       - $HOME/cs16/server.cfg:/hlds/cstrike/server.cfg
       - $HOME/cs16/mapcycle.txt:/hlds/cstrike/mapcycle.txt
       - $HOME/cs16/maps/:/hlds/cstrike/maps/
+      - $HOME/cs16/publico.cfg:/hlds/cstrike/publico.cfg
+      - $HOME/cs16/cerrado.cfg:/hlds/cstrike/cerrado.cfg
+      - $HOME/cs16/vale.cfg:/hlds/cstrike/vale.cfg
+      - $HOME/cs16/practica.cfg:/hlds/cstrike/practica.cfg
+      - $HOME/cs16/rates.cfg:/hlds/cstrike/rates.cfg
