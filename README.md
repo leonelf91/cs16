@@ -34,3 +34,9 @@ Instalar :
 Parado en el directorio cs16 :
 
 sudo docker-compose up -d
+
+# Paso  9:
+Hacer que el contenedor se arranque al reiniciar la instancia :
+
+sudo cp docker-counter.service /etc/systemd/system/
+sudo systemctl enable docker-counter.service

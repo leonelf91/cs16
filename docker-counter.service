@@ -1,0 +1,11 @@
+[Unit]
+Description=Counter container  
+Requires=docker.service  
+After=docker.service
+
+[Service]
+Restart=always
+ExecStart=/usr/bin/docker start -a counter-strike_server
+
+[Install]
+WantedBy=default.target
