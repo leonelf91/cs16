@@ -15,6 +15,6 @@ services:
       - 27015:27015/udp
       - 27015:27015
     volumes:
-      - /home/ubuntu/server.cfg:/hlds/cstrike/server.cfg
-      - /home/ubuntu/mapcycle.txt:/hlds/cstrike/mapcycle.txt
-      - /home/ubuntu/maps/:/hlds/cstrike/maps/
+      - $HOME/cs16/server.cfg:/hlds/cstrike/server.cfg
+      - $HOME/cs16/mapcycle.txt:/hlds/cstrike/mapcycle.txt
+      - $HOME/cs16/maps/:/hlds/cstrike/maps/
