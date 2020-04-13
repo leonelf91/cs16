@@ -3,7 +3,7 @@ version: '3'
 services:
 
   hlds:
-    container_name: counter-strike_server
+    container_name: cs-con-dproto
     image: febley/counter-strike_server:latest
     restart: always
     environment:
@@ -23,3 +23,5 @@ services:
       - $HOME/cs16/vale.cfg:/hlds/cstrike/vale.cfg
       - $HOME/cs16/practica.cfg:/hlds/cstrike/practica.cfg
       - $HOME/cs16/rates.cfg:/hlds/cstrike/rates.cfg
+      - $HOME/cs16/addons/:/hlds/cstrike/addons/
+      - $HOME/cs16/liblist.gam:/hlds/cstrike/liblist.gam
