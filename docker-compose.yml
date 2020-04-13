@@ -25,3 +25,5 @@ services:
       - $HOME/cs16/rates.cfg:/hlds/cstrike/rates.cfg
       - $HOME/cs16/addons/:/hlds/cstrike/addons/
       - $HOME/cs16/liblist.gam:/hlds/cstrike/liblist.gam
+      - $HOME/cs16/dproto.cfg:/hlds/cstrike/dproto.cfg
+
