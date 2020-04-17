@@ -25,4 +25,4 @@ services:
       - ./rates.cfg:/hlds/cstrike/rates.cfg
       - ./addons/:/hlds/cstrike/addons/
       - ./liblist.gam:/hlds/cstrike/liblist.gam
-
+      - ./dproto.cfg:/hlds/cstrike/dproto.cfg
