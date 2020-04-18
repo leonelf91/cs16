@@ -1,0 +1,14 @@
+L 04/18/2020 - 19:06:01: -------- Mapchange to de_dust2 --------
+L 04/18/2020 - 19:06:25: [admin.amxx] Login: "TSM Leinho<1><STEAM_0:1:534159451><>" became an admin (account "TSM Leinho") (access "abcdefghijklmnopqrstuv") (address "186.23.31.178")
+L 04/18/2020 - 19:09:11: -------- Mapchange to de_dust2 --------
+L 04/18/2020 - 19:09:19: [admin.amxx] Login: "TSM Leinho<1><STEAM_0:1:534159451><>" became an admin (account "TSM Leinho") (access "abcdefghijklmnopqrstuv") (address "172.18.0.1")
+L 04/18/2020 - 19:13:42: -------- Mapchange to de_dust2 --------
+L 04/18/2020 - 19:13:57: [admin.amxx] Login: "TSM Leinho<1><STEAM_0:1:534159451><>" became an admin (account "TSM Leinho") (access "abcdefghijklmnopqrstuv") (address "186.23.31.178")
+L 04/18/2020 - 19:16:00: [admincmd.amxx] Cmd: "TSM Leinho<1><STEAM_0:1:534159451><>" changelevel "de_dust2"
+L 04/18/2020 - 19:16:02: -------- Mapchange to de_dust2 --------
+L 04/18/2020 - 19:16:03: [admin.amxx] Login: "TSM Leinho<1><STEAM_0:1:534159451><>" became an admin (account "TSM Leinho") (access "abcdefghijklmnopqrstuv") (address "186.23.31.178")
+L 04/18/2020 - 19:45:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/18/2020 - 19:46:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 04/18/2020 - 19:48:01: -------- Mapchange to de_inferno --------
+L 04/18/2020 - 20:06:00: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/18/2020 - 20:06:16: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
