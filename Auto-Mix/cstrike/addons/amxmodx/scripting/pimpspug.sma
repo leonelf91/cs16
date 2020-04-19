@@ -266,8 +266,8 @@ public plugin_init() {
 	
 	register_clcmd("say !rr", "Restart")
 	register_clcmd("say !restart", "RestartS")
-	register_clcmd("say !add", "Prepare")
-	register_clcmd("say !unadd", "unPrepare")
+	register_clcmd("say /listo", "Prepare")
+	register_clcmd("say /nolisto", "unPrepare")
 	register_clcmd("say !credit", "credits")
 	register_clcmd("say !credits", "credits")
 	register_clcmd("say !ranks", "showRanks")
