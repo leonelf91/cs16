@@ -1,0 +1,5 @@
+L 04/19/2020 - 00:16:33: Start of error session.
+L 04/19/2020 - 00:16:33: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20200419.log")
+L 04/19/2020 - 00:16:33: Plugin called menu_display when item=MENU_EXIT
+L 04/19/2020 - 00:16:33: [AMXX] Run time error 10 (plugin "pimpspug.amxx") (native "menu_display") - debug not enabled!
+L 04/19/2020 - 00:16:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

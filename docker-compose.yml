@@ -2,18 +2,18 @@ version: '3'
 
 services:
 
-  hlds5ya:
-    container_name: cs-5ya
+  hldsAutomix:
+    container_name: cs-automix-p1mp
     image: febley/counter-strike_server:latest
     restart: always
     environment:
-      - PORT=27015
+      - PORT=27016
       - MAP=de_dust2
       - MAXPLAYERS=16
       - SV_LAN=0
     ports:
-      - 27015:27015/udp
-      - 27015:27015
+      - 27016:27016/udp
+      - 27016:27016
     volumes:
       - ./server.cfg:/hlds/cstrike/server.cfg
       - ./mapcycle.txt:/hlds/cstrike/mapcycle.txt
@@ -26,3 +26,5 @@ services:
       - ./addons/:/hlds/cstrike/addons/
       - ./liblist.gam:/hlds/cstrike/liblist.gam
       - ./dproto.cfg:/hlds/cstrike/dproto.cfg
+      - ./practice.cfg:/hlds/cstrike/practice.cfg
+      - ./pug.cfg:/hlds/cstrike/pug.cfg

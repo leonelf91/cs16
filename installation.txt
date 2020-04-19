@@ -1,0 +1,8 @@
+1) Extract the files and put them on your home/ Counter-Strike server folder. (Where your HLDS file is located)
+2) Go to the file cstrike/addons/amxmodx/configs/plugins.ini and put at the bottom of the file 2 lines:
+
+           • pimpspug.amxx
+           • stats_pug.amxx
+
+3) Restart Server / Change Map
+4) Make sure to put in amxmodx/configs/maps.ini the maps you want to come up in the map vote
