@@ -59,7 +59,7 @@ TYPE_READY = Porfavor escribe /listo para estar Listo! Seras expulsado en %d seg
 TYPE_READY_HUD = Segundos restantes! Escribe /listo
 MATCH_ALREADY_STARTED = Una partida ya ha comenzado!
 ALREADY_TYPED_ADD = Ya escribiste /listo
-HUD_NOT_READY = Aun no estan listos :
+HUD_NOT_READY = Aun no estan listos 
 HUD_READY = Listo.
 HUD_PLAYERS_READY = Los jugadores estan Listos.
 
