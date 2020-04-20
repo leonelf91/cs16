@@ -393,7 +393,7 @@ MATCH_OVER2 = Partida terminada! Una nueva partida comenzarfa en 10 segundos.
 MATCH_OVER3 = Puedes re-ingresar a la partida siguiente escribiendo /listo de nuevo.
 PLUGIN_RESTART = Se reiniciara el plugin en 10 segundos.
 
-PLAYER_PERSONAL_INFO = ------------------------------------------^nBienvenido a %s^n^nPara comenzar el juego, escribe /listo^n Puede presiona la tecla 'M' para ver el menu de opciones^n Tienes %d segundos para escribir /listo^n^n------------------------------------------
+PLAYER_PERSONAL_INFO = ------------------------------------------^nBienvenido a %s^n^nPara comenzar el juego, escribe /listo^nPuede presiona la tecla 'M' para ver el menu de opciones^nTienes %d segundos para escribir /listo^n^n------------------------------------------
 RANKING_TABLE = Ranking de jugadores^n-----------------------------^n^n%s ha ganado la partida!^n^nTop Matados - %s [%d Matados]^nTop Muertes - %s [%d Muertes]^nTop bomba plantada - %s [%d bombas plantadas]^nTop bombas desactivadas - %s [%d bombas desactivadas]^nNiveles Pug - %d
 RANK_SYSTEM_DISABLED = El sistema de ranking ha sido desactivado en el servidor!
 MENU_BLOCK = %s No puedes abrir el menu en este momento!
@@ -642,7 +642,7 @@ MATCH_OVER2 = Partida terminada! Una nueva partida comenzarfa en 10 segundos.
 MATCH_OVER3 = Puedes re-ingresar a la partida siguiente escribiendo /listo de nuevo.
 PLUGIN_RESTART = Se reiniciara el plugin en 10 segundos.
 
-PLAYER_PERSONAL_INFO = ------------------------------------------^nBienvenido a %s^n^nPara comenzar el juego, escribe /listo^n Puede presiona la tecla 'M' para ver el menu de opciones^n Tienes %d segundos para escribir /listo^n^n------------------------------------------
+PLAYER_PERSONAL_INFO = ------------------------------------------^nBienvenido a %s^n^nPara comenzar el juego, escribe /listo^nPuede presiona la tecla 'M' para ver el menu de opciones^nTienes %d segundos para escribir /listo^n^n------------------------------------------
 RANKING_TABLE = Ranking de jugadores^n-----------------------------^n^n%s ha ganado la partida!^n^nTop Matados - %s [%d Matados]^nTop Muertes - %s [%d Muertes]^nTop bomba plantada - %s [%d bombas plantadas]^nTop bombas desactivadas - %s [%d bombas desactivadas]^nNiveles Pug - %d
 RANK_SYSTEM_DISABLED = El sistema de ranking ha sido desactivado en el servidor!
 MENU_BLOCK = %s No puedes abrir el menu en este momento!
