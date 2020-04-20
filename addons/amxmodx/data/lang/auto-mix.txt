@@ -245,7 +245,7 @@ MENU_ITEM_YES = Si
 MENU_ITEM_NO = No
 MENU_ITEM_ON = Encendido
 MENU_ITEM_OFF = Apagado
-PLAYERS_LEFT_HUD = Jugadores ^n restantes^n^n^n Presione tecla 'M' ^n para ver el menu
+PLAYERS_LEFT_HUD = Jugadores ^n restantes^n^n^n Presione tecla 'M' ^n para ver el menu 
 
 [bp]
 
