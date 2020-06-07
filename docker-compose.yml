@@ -4,13 +4,13 @@ services:
 
   hlds5ya:
     container_name: cs-5ya
-    image: leonelf91/cs16image:latest
+    image: febley/counter-strike_server:latest
     restart: always
     environment:
       - PORT=27015
       - MAP=de_dust2
       - MAXPLAYERS=16
-      - SV_LAN=1
+      - SV_LAN=0
       - IP=0.0.0.0
       - PINGBOOST=2
     ports:
