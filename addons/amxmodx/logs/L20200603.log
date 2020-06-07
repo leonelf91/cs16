@@ -1,0 +1,87 @@
+L 06/03/2020 - 02:34:53: -------- Mapchange to de_dust2 --------
+L 06/03/2020 - 02:35:48: [admin.amxx] Login: "TSM Colo<1><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/03/2020 - 02:36:23: [admin.amxx] Login: "TSM JB<2><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/03/2020 - 02:43:50: [admin.amxx] Login: "TSM fROM<5><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/03/2020 - 02:53:49: [plmenu.amxx] Kick: "TSM JB<2><STEAM_0:0:540163273><>" kick "gayzao<6><STEAM_0:1:459787729><>"
+L 06/03/2020 - 02:54:53: -------- Mapchange to de_inferno --------
+L 06/03/2020 - 02:54:55: [admin.amxx] Login: "TSM fROM<5><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/03/2020 - 02:54:55: [admin.amxx] Login: "TSM Colo<1><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/03/2020 - 02:54:55: [admin.amxx] Login: "TSM JB<2><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/03/2020 - 02:56:17: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/03/2020 - 02:58:59: [admin.amxx] Login: "TSM peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/03/2020 - 02:59:23: [admincmd.amxx] Cmd: "TSM JB<2><STEAM_0:0:540163273><>" changelevel "de_inferno"
+L 06/03/2020 - 02:59:25: -------- Mapchange to de_inferno --------
+L 06/03/2020 - 02:59:26: [admin.amxx] Login: "TSM fROM<5><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/03/2020 - 02:59:26: [admin.amxx] Login: "TSM JB<2><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/03/2020 - 02:59:26: [admin.amxx] Login: "TSM peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/03/2020 - 03:37:04: [admin.amxx] Login: "TSM JB<26><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/03/2020 - 03:51:43: [admincmd.amxx] Cmd: "TSM JB<26><STEAM_0:0:540163273><>" changelevel "de_nuke"
+L 06/03/2020 - 03:51:45: -------- Mapchange to de_nuke --------
+L 06/03/2020 - 03:51:46: [admin.amxx] Login: "TSM peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/03/2020 - 03:51:46: [admin.amxx] Login: "TSM fROM<5><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/03/2020 - 03:51:46: [admin.amxx] Login: "TSM JB<26><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/03/2020 - 04:45:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 04:46:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 06/03/2020 - 04:47:52: -------- Mapchange to de_train --------
+L 06/03/2020 - 05:05:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 05:06:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mirage
+L 06/03/2020 - 05:44:00: -------- Mapchange to de_mirage --------
+L 06/03/2020 - 06:02:00: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 06:02:15: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 06/03/2020 - 06:40:07: -------- Mapchange to de_dust2 --------
+L 06/03/2020 - 06:58:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 06:58:22: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 06/03/2020 - 07:36:15: -------- Mapchange to de_inferno --------
+L 06/03/2020 - 07:54:15: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 07:54:30: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 06/03/2020 - 08:32:22: -------- Mapchange to de_nuke --------
+L 06/03/2020 - 08:50:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 08:50:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 06/03/2020 - 09:28:30: -------- Mapchange to de_train --------
+L 06/03/2020 - 09:46:30: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 09:46:45: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mirage
+L 06/03/2020 - 10:24:37: -------- Mapchange to de_mirage --------
+L 06/03/2020 - 10:42:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 10:42:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 06/03/2020 - 11:20:45: -------- Mapchange to de_dust2 --------
+L 06/03/2020 - 11:38:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 11:39:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 06/03/2020 - 12:16:52: -------- Mapchange to de_inferno --------
+L 06/03/2020 - 12:34:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 12:35:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 06/03/2020 - 13:13:00: -------- Mapchange to de_nuke --------
+L 06/03/2020 - 13:30:59: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 13:31:14: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 06/03/2020 - 14:09:07: -------- Mapchange to de_train --------
+L 06/03/2020 - 14:27:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 14:27:22: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mirage
+L 06/03/2020 - 15:05:15: -------- Mapchange to de_mirage --------
+L 06/03/2020 - 15:23:14: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 15:23:29: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 06/03/2020 - 16:01:22: -------- Mapchange to de_dust2 --------
+L 06/03/2020 - 16:19:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 16:19:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 06/03/2020 - 16:57:30: -------- Mapchange to de_inferno --------
+L 06/03/2020 - 17:15:29: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 17:15:44: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 06/03/2020 - 17:53:37: -------- Mapchange to de_nuke --------
+L 06/03/2020 - 18:11:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 18:11:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 06/03/2020 - 18:49:45: -------- Mapchange to de_train --------
+L 06/03/2020 - 19:07:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 19:08:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mirage
+L 06/03/2020 - 19:45:52: -------- Mapchange to de_mirage --------
+L 06/03/2020 - 20:03:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 20:04:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 06/03/2020 - 20:42:00: -------- Mapchange to de_dust2 --------
+L 06/03/2020 - 21:00:00: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 21:00:15: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 06/03/2020 - 21:38:07: -------- Mapchange to de_inferno --------
+L 06/03/2020 - 21:56:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 21:56:22: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 06/03/2020 - 22:34:15: -------- Mapchange to de_nuke --------
+L 06/03/2020 - 22:52:15: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 22:52:30: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 06/03/2020 - 23:30:23: -------- Mapchange to de_train --------
+L 06/03/2020 - 23:48:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/03/2020 - 23:48:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mirage

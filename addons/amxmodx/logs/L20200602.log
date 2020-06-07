@@ -1,0 +1,95 @@
+L 06/02/2020 - 00:23:48: -------- Mapchange to de_dust2 --------
+L 06/02/2020 - 00:36:28: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 00:41:50: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/02/2020 - 00:42:05: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 06/02/2020 - 00:43:59: -------- Mapchange to de_dust2 --------
+L 06/02/2020 - 00:44:00: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 01:01:59: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/02/2020 - 01:02:14: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 06/02/2020 - 01:04:08: -------- Mapchange to de_inferno --------
+L 06/02/2020 - 01:04:09: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 01:30:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 06/02/2020 - 01:31:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_747
+L 06/02/2020 - 01:32:59: -------- Mapchange to cs_747 --------
+L 06/02/2020 - 01:33:00: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 01:40:25: [admin.amxx] Login: "TSM KBZ@<2><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 01:41:28: [adminchat.amxx] Chat: "TSM KBZ@<2><STEAM_0:0:123422662><>" tsay ""
+L 06/02/2020 - 01:41:51: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 01:42:05: [mapsmenu.amxx] Cmd: "TSM KBZ@<2><STEAM_0:0:123422662><>" changelevel "de_dust2"
+L 06/02/2020 - 01:42:07: -------- Mapchange to de_dust2 --------
+L 06/02/2020 - 01:42:08: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 01:42:08: [admin.amxx] Login: "TSM KBZ@<2><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 01:42:08: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 02:03:40: [admin.amxx] Login: "TSM JB<7><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 02:21:23: [admin.amxx] Login: "TSM JB<9><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 02:24:05: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 02:35:33: [admin.amxx] Login: "TSM Leinho<12><STEAM_0:1:534159451><>" became an admin (account "TSM Leinho") (access "abcdefghijklmnopqrstuv") (address "186.23.31.178")
+L 06/02/2020 - 02:40:49: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 02:55:16: [admincmd.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" changelevel "de_dust2"
+L 06/02/2020 - 02:55:18: -------- Mapchange to de_dust2 --------
+L 06/02/2020 - 02:55:19: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 02:55:19: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 02:55:19: [admin.amxx] Login: "TSM JB<9><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 02:55:19: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 02:55:19: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 02:57:38: [admincmd.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" changelevel "de_dust2"
+L 06/02/2020 - 02:57:40: -------- Mapchange to de_dust2 --------
+L 06/02/2020 - 02:57:41: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 02:57:41: [admin.amxx] Login: "TSM JB<9><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 02:57:41: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 02:57:41: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 02:57:41: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 03:27:25: -------- Mapchange to de_inferno --------
+L 06/02/2020 - 03:27:26: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 03:27:26: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 03:27:26: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 03:27:26: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 03:27:26: [admin.amxx] Login: "TSM JB<9><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 03:28:30: [admin.amxx] Login: "TSM JB<17><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 03:28:44: [admin.amxx] Login: "TSM JB<18><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 03:30:29: -------- Mapchange to de_inferno --------
+L 06/02/2020 - 03:30:30: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 03:30:30: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 03:30:30: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 03:30:30: [admin.amxx] Login: "TSM JB<18><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 03:30:30: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 03:39:31: [plmenu.amxx] Cmd: "TSM Colo<13><STEAM_0:1:418955341><>" slap with 0 damage "cnk<5><STEAM_0:1:541472757><>"
+L 06/02/2020 - 03:39:32: [plmenu.amxx] Cmd: "TSM Colo<13><STEAM_0:1:418955341><>" slap with 0 damage "cnk<5><STEAM_0:1:541472757><>"
+L 06/02/2020 - 03:39:32: [plmenu.amxx] Cmd: "TSM Colo<13><STEAM_0:1:418955341><>" slap with 0 damage "cnk<5><STEAM_0:1:541472757><>"
+L 06/02/2020 - 03:39:33: [plmenu.amxx] Cmd: "TSM Colo<13><STEAM_0:1:418955341><>" slap with 0 damage "cnk<5><STEAM_0:1:541472757><>"
+L 06/02/2020 - 03:49:18: [plmenu.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" transfer "Oro1 LG10<4><VALVE_0:4:1388083713><>" (team "SPECTATOR")
+L 06/02/2020 - 03:49:19: [plmenu.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" transfer "cnk<5><STEAM_0:1:541472757><>" (team "SPECTATOR")
+L 06/02/2020 - 03:49:19: [plmenu.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" transfer "peish<6><STEAM_0:0:20985239><>" (team "SPECTATOR")
+L 06/02/2020 - 03:49:25: [plmenu.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" transfer "ishka<20><VALVE_0:4:111707472><>" (team "SPECTATOR")
+L 06/02/2020 - 03:49:26: [plmenu.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" transfer "TSM Nari<16><VALVE_0:4:2114954630><>" (team "SPECTATOR")
+L 06/02/2020 - 03:51:13: [admincmd.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" changelevel "de_inferno"
+L 06/02/2020 - 03:51:15: -------- Mapchange to de_inferno --------
+L 06/02/2020 - 03:51:16: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 03:51:16: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 03:51:16: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 03:51:16: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 03:51:16: [admin.amxx] Login: "TSM JB<18><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 03:52:44: [admin.amxx] Login: "TSM JB<21><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 04:15:38: [admincmd.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" changelevel "de_dust2"
+L 06/02/2020 - 04:15:41: -------- Mapchange to de_dust2 --------
+L 06/02/2020 - 04:15:41: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 04:15:41: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 04:15:41: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 04:15:41: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 04:15:41: [admin.amxx] Login: "TSM JB<21><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 04:16:05: [admincmd.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" changelevel "de_inferno"
+L 06/02/2020 - 04:16:08: -------- Mapchange to de_inferno --------
+L 06/02/2020 - 04:16:08: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 04:16:08: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 04:16:08: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 04:16:08: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 04:16:08: [admin.amxx] Login: "TSM JB<21><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 04:43:56: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 04:44:06: [admincmd.amxx] Cmd: "TSM KBZ@<10><STEAM_0:0:123422662><>" changelevel "de_nuke"
+L 06/02/2020 - 04:44:08: -------- Mapchange to de_nuke --------
+L 06/02/2020 - 04:44:09: [admin.amxx] Login: "TSM Colo<13><STEAM_0:1:418955341><>" became an admin (account "TSM Colo") (access "abcdefghijklmnopqrstuv") (address "190.190.35.85")
+L 06/02/2020 - 04:44:09: [admin.amxx] Login: "TSM Peke<3><STEAM_0:1:540203910><>" became an admin (account "TSM Peke") (access "abcdefghijklmnopqrstuv") (address "190.190.253.242")
+L 06/02/2020 - 04:44:09: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
+L 06/02/2020 - 04:44:09: [admin.amxx] Login: "TSM JB<21><STEAM_0:0:540163273><>" became an admin (account "TSM JB") (access "abcdefghijklmnopqrstuv") (address "190.190.209.82")
+L 06/02/2020 - 04:44:09: [admin.amxx] Login: "TSM fROM<1><STEAM_0:0:89555135><>" became an admin (account "TSM fROM") (access "abcdefghijklmnopqrstuv") (address "181.229.208.121")
+L 06/02/2020 - 04:46:49: [admin.amxx] Login: "TSM KBZ@<10><STEAM_0:0:123422662><>" became an admin (account "TSM KBZ@") (access "abcdefghijklmnopqrstuv") (address "200.125.121.160")
